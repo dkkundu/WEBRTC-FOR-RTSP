@@ -4,10 +4,10 @@
     "ice_servers": ["stun:stun.l.google.com:19302"]
   },
   "streams": {
-    "H264_AAC": {
+    "L8 camera": {
       "on_demand": false,
       "disable_audio": true,
-      "url": "rtsp://admin:admin@176.117.205.3:5541/video1"
+      "url": "rtsp://dk:admin@192.168.0.11:554/media/video2"
     }
   }
 }
